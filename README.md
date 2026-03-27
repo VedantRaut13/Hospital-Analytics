@@ -17,11 +17,11 @@ Analytical Approach
 
 Data Modeling
 Designed a structured STAR Schema model linking:
-Hospitals
-Doctors
-Patients
-Time dimensions
-Visits
+Hospitals.
+Doctors.
+Patients.
+Time dimensions.
+Visits.
 
 Data Preparation (ETL)
 Cleaned and transformed healthcare data using Power Query to replace null values, clean and Trim text, change Data types and other transformations.
@@ -30,18 +30,18 @@ KPI Development (DAX)
 
 Developed key healthcare KPIs:
 
-Total Visits: 120K
-Total Revenue: $76M
-Revenue per Visit: $636
-Average Treatment Cost: $4K
+Total Visits: 120K.
+Total Revenue: $76M.
+Revenue per Visit: $636.
+Average Treatment Cost: $4K.
 
 Dashboard Design
 
 Built 3 interactive views:
 
-Executive View → Overall hospital performance
-Doctor View → Performance & workload
-Patient & Diagnosis View → Trends & demographics
+Executive View → Overall hospital performance.
+Doctor View → Performance & workload.
+Patient & Diagnosis View → Trends & demographics.
 
 Key Insights
 
@@ -54,9 +54,9 @@ Patients aged 65+ contribute the highest healthcare demand.
 
 Impact & Business Value
 
-Enabled hospitals to allocate staff based on high-demand specialties
-Identified top-performing doctors for workload balancing
-Highlighted high-revenue diagnoses for strategic focus
-Improved patient segmentation for targeted healthcare services
-Provided a centralized dashboard for real-time decision-making
-Established a scalable analytics framework for multi-hospital systems
+Enabled hospitals to allocate staff based on high-demand specialties.
+Identified top-performing doctors for workload balancing.
+Highlighted high-revenue diagnoses for strategic focus.
+Improved patient segmentation for targeted healthcare services.
+Provided a centralized dashboard for real-time decision-making.
+Established a scalable analytics framework for multi-hospital systems.
