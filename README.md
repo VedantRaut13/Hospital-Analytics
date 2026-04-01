@@ -60,3 +60,9 @@ Highlighted high-revenue diagnoses for strategic focus.
 Improved patient segmentation for targeted healthcare services.
 Provided a centralized dashboard for real-time decision-making.
 Established a scalable analytics framework for multi-hospital systems.
+
+<img width="847" height="647" alt="Screenshot 2026-04-01 124010" src="https://github.com/user-attachments/assets/cbf68e9a-58d6-4f5c-acc8-bc193d7548d8" />
+<img width="854" height="652" alt="Screenshot 2026-04-01 124035" src="https://github.com/user-attachments/assets/9775e9e1-f6c6-43cd-a2fa-e5482eaab268" />
+<img width="843" height="653" alt="Screenshot 2026-04-01 124106" src="https://github.com/user-attachments/assets/3486a92e-1c6a-4da3-93c7-31a4b4b709de" />
+<img width="840" height="654" alt="Screenshot 2026-04-01 124126" src="https://github.com/user-attachments/assets/4cb8a109-1b55-4391-acb8-b8f6ad74eca7" />
+
